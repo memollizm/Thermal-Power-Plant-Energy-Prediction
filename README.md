@@ -1,16 +1,16 @@
-# <p align="center">Termal Santral Enerji Tahmini</p>
+# <p align="center">Termik Santral Enerji Tahmini</p>
 <div align="center">
   
 ![thermal][thermal]
 
 </div>
 
-Bu proje, termal santral ünitelerinden elde edilen verilere dayanan bir yapay sinir ağı (ANN) modeli üzerinde çalışmaktadır. Termal santraller, elektrik üretimi için önemli bir kaynak olup, sıcaklık, buhar basıncı, nem ve atış gücü gibi faktörlerin enerji üretimine etkisini inceler.
+Bu proje, termik santral ünitelerinden elde edilen verilere dayanan bir yapay sinir ağı (ANN) modeli üzerinde çalışmaktadır. Termik santraller, elektrik üretimi için önemli bir kaynak olup, sıcaklık, buhar basıncı, nem ve atış gücü gibi faktörlerin enerji üretimine etkisini inceler.
 
 <br>
 
 ## Proje Amaçları
-* Termal santral verileri üzerinde öğrenme gerçekleştirilmesi.
+* Termik santral verileri üzerinde öğrenme gerçekleştirilmesi.
 * Enerji üretiminin gelecekteki tahminlerinin yapılması.
 * Enerji piyasasındaki talep ve arz dengesinin yönetilmesine yardımcı olacak verilerin sağlanması.
 
