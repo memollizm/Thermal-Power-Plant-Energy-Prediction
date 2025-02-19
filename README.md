@@ -35,4 +35,4 @@ Katkıda bulunmak veya geri bildirimde bulunmak isterseniz, lütfen bir pull tal
 
 
 
-[thermal]: https://ekolojist.net/wp-content/uploads/2018/04/termik-santral.png
+[thermal]: https://muhendistan.com/wp-content/uploads/2020/08/Termik-Santral-Nedir_-M%C3%BChendistan-1.jpg
